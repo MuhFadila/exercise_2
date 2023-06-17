@@ -1,0 +1,36 @@
+body {
+    background-image: url(https://e1.pxfuel.com/desktop-wallpaper/433/595/desktop-wallpaper-yoasobi-from-japan-yoasobi-thumbnail.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1 {
+    font-family: 'Sedgwick Ave Display', cursive;
+}
+
+h2 {
+    font-family: 'Sedgwick Ave Display', cursive;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-align: center;
+    border: 2px solid #262525;
+    background: #d481c7;
+    color: #361500;
+    box-shadow: 1px 1px 2px #C69B7B;
+    border-radius: 10px;
+    padding: 3px 10px;
+    cursor: pointer;
+}
+
+.survey,
+a {
+    margin-top: 5px;
+    background-color: #2e5894;
+    color: white;
+    text-decoration: none;
+    width: 70px;
+    height: 40px;
+    border: transparent;
+    border-radius: 5px;
+}
